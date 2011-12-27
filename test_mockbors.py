@@ -11,7 +11,7 @@ teststr ="""<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http
  <span class="W"> Oms. Stockholmsb?rsen     5296 (12383)</span>
  <span class="W">  (parentes = f?reg?ende b?rsdags slut)</span>
  <span class="G">                                       </span>
- <span class="Y DH"> </span><span class="Y DH">OMX STOCKHOLM           357.57  -11.79 </span>
+ <span class="C DH"> </span><span class="C DH">OMX STOCKHOLM (17:04)   303.55  -0.51 </span>
  <span class="Y"> ENERGI                 1329.05  +1.63 </span>
  <span class="Y"> MATERIAL                266.73  +1.20 </span>
  <span class="Y"> INDUSTRIVAROR           471.82  +0.93 </span>

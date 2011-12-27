@@ -96,7 +96,7 @@ class Bors:
 
 
     def filter_out(self, html):
-        return re.search('OMX STOCKHOLM[ \t]*([\d]*\.[\d]*)[ \t]*([+-][\d]*\.[\d]*)', html)
+        return re.search('OMX STOCKHOLM \(\d\d\:\d\d\)[ \t]*([\d]*\.[\d]*)[ \t]*([+-][\d]*\.[\d]*)', html)
 
     def getindex(self):
         self.html = self.get_texttv()
